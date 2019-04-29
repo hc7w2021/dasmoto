@@ -10,6 +10,6 @@ I also added `<div>`'s even though there was no menu or list.  I used id's to ta
 
 ## Spans
 
-To style the prices I used the <span> tag and added a class.  I've heard that it is not best practice to style a whole tag.  So even though this is a small project I added a class to them anyway.
+To style the prices I used the `<span>` tag and added a class.  I've heard that it is not best practice to style a whole tag.  So even though this is a small project I added a class to them anyway.
 
 
