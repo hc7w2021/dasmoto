@@ -14,20 +14,37 @@ h2 {
     color:white;
 }
 
-span {
+h3 {
     font-family: Helvetica;
     font-weight: bold;
-    color: blue;
 }
 
-#brushes {
+#brushes p {
+    font-family: Helvetica;
+}
+
+#frames p {
+    font-family: Helvetica;
+}
+
+#paint p {
+    font-family: Helvetica;
+}
+
+#brushes h2 {
     background-color: mediumspringgreen;
 }
 
-#frames {
+#frames h2 {
     background-color: lightcoral;
 }
 
-#paint {
+#paint h2 {
     background-color: skyblue;
+}
+
+.price {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
 }
